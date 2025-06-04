@@ -86,7 +86,7 @@ Contribuições são muito bem-vindas! Se você deseja colaborar com o projeto "
 
 * **Jonatas Bezerra da Silva**
     * [GitHub](https://github.com/jonh0077)
-    * [LinkedIn](**[https://www.linkedin.com/in/jonatas-bezerra-83831a356]**)
+    * [LinkedIn](https://www.linkedin.com/in/jonatas-bezerra-83831a356)
 
 ---
 
